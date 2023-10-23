@@ -1,2 +1,2 @@
 # OSIRIS_Genomic
-Genomic part of the Data Conceptual Model OSIRIS
+Genomic part of the Data Model OSIRIS
